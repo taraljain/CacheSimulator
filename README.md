@@ -8,6 +8,4 @@ Associative memory
 n-way set associative memory where n is a power of 2.
 Any programming language (of your choice) can be used. 
 
-Bonus task - (Applicable only for Section B)                                                                              Weightage - 12%
-[NOTE- This task is completely OPTIONAL.]
-Task - Build a 2 level cache. The size of the level 1 cache is S/2 and the size of level 2 cache is S. All the other parameters are to be decided accordingly. This will also be a standalone cache without the intervention of the main memory.
+Build a 2 level cache. The size of the level 1 cache is S/2 and the size of level 2 cache is S. All the other parameters are to be decided accordingly. This will also be a standalone cache without the intervention of the main memory.
