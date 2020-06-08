@@ -1,4 +1,4 @@
-# CacheSimulator
+
 This is an assignment of the course Computer Organisation at IIIT Delhi. It contains Level-1 &amp; Level-2 Cache Memory which allows loading and searching using Direct Mapping, Fully Associative Mapping &amp; Set Associative Mapping
 Cache Assignment
 
