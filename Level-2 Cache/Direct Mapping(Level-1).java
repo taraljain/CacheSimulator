@@ -287,8 +287,8 @@ public class Direct_L1 {
 
             else if(operation.equals("W")){
                 System.out.println("Enter The Data To Write At "+address );
-                int toAdd=input.nextInt();
-                cache_L1.put(address,setNumber_L1, tag_L1,word_L1,toAdd,cache_L2,set_L2_Bits,tag_L2_Bits,word_L2_Bits);
+                int toAddi=input.nextInt();
+                cache_L1.put(address,setNumber_L1, tag_L1,word_L1,toAddi,cache_L2,set_L2_Bits,tag_L2_Bits,word_L2_Bits);
             }
         }
     }
